@@ -1,0 +1,44 @@
+{
+	"Screen 1": {
+		"Type": "Sample",
+		"Questions": [
+			{
+				"Question": "Apple",
+				"Answer": "Apple"
+			},
+			{
+				"Question": "Pear",
+				"Answer": "Pear"
+			},
+			{
+				"Question": "Cucumber",
+				"Answer": "Cucumber"
+			},
+			{
+				"Question": "Banana",
+				"Answer": "Banana"
+			}
+		]
+	},
+	"Screen 1": {
+		"Type": "Sample",
+		"Questions": [
+			{
+				"Question": "Apple",
+				"Answer": "Apple"
+			},
+			{
+				"Question": "Pear",
+				"Answer": "Pear"
+			},
+			{
+				"Question": "Cucumber",
+				"Answer": "Cucumber"
+			},
+			{
+				"Question": "Banana",
+				"Answer": "Banana"
+			}
+		]
+	}
+}
